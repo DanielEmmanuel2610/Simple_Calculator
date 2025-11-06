@@ -9,7 +9,7 @@ body {
   justify-content: center;
   align-items: center;
   min-height: 100vh;
-  background: linear-gradient(135deg, #be2290, #14e4ff);
+  background: linear-gradient(135deg, #ee0595, #ffffff);
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
 }
 .calculator {
